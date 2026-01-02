@@ -49,9 +49,9 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
-    <img alt="KelloTek's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=KelloTek&custom_title=Profile%20Stats&show_icons=true&include_all_commits=true&text_color=ffffff&border_color=3d444d&bg_color=151b23&title_color=1f6feb&icon_color=e3b341">
+    <img alt="KelloTek's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=KelloTek&custom_title=Profile%20Stats&show_icons=true&include_all_commits=true&text_color=ffffff&hide_border=true&bg_color=151b23&title_color=1f6feb&icon_color=e3b341">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-    <img alt="KelloTek's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=KelloTek&langs_count=10&layout=compact&text_color=ffffff&border_color=3d444d&bg_color=151b23&title_color=1f6feb">
+    <img alt="KelloTek's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=KelloTek&langs_count=10&layout=compact&text_color=ffffff&hide_border=true&bg_color=151b23&title_color=1f6feb">
   </a>
 </div>
